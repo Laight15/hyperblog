@@ -303,3 +303,7 @@ https://platzi.com/clases/1557-git-github/19935-flujo-de-trabajo-basico-con-un-r
 ## Introduccion a las ramas o branches de Git
 
 https://platzi.com/clases/1557-git-github/19940-introduccion-a-las-ramas-o-branches-de-git/
+
+# Contribuidores
+
+Joshua Carrillo Gonzalez
