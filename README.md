@@ -244,10 +244,16 @@ history
 
 ## Borrar archivos ("peligroso")
 
-Borra los archovos seleccionados pero ten cuidado si lo haces mal puede llegar a borrar otras cosas e incluso el disco duro
+Borra los archivos seleccionados pero ten cuidado si lo haces mal puede llegar a borrar otras cosas e incluso el disco duro
 
 ```
 rm (nombre del archivo)
+```
+
+borra las carpetas
+
+```
+rmdir (nombre de la carpeta)
 ```
 
 <br>
